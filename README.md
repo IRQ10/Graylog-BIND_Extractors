@@ -1,2 +1,5 @@
 # Graylog-BIND_Extractors
-BIND 9 Extractors
+#
+Extractors for Graylog to parse BIND DNS query messages.
+#
+8/29/22 - Initial commit.
